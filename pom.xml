@@ -22,7 +22,7 @@
         <logback-classic.version>1.0.9</logback-classic.version>
         <testng.version>6.8</testng.version>
         <oauth.signpost.version>1.2.1.2</oauth.signpost.version>
-        <jackson.version>2.1.2</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
     </properties>
 
     <build>
